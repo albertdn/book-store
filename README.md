@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Run the backend with command node server.js
-Run the frontend with command npm start
+Run the backend with command 'node server.js'
+Run the frontend with command 'npm start'
 
 In order to fetch the data you need to have mongoDb and service running. The database name in this app is 'mydb' and the collection name is 'books'.
 
